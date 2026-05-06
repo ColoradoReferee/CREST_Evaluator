@@ -1,9 +1,16 @@
-© 2026 JAREFEREE. All rights reserved.
+Proprietary License — All Rights Reserved
 
-The CREST Program, Evaluator App, Game Day Coordinator App, and all related
-training materials, workflows, software, forms, documents, graphics, reports,
-templates, and program structures are proprietary.
+Copyright © 2026 Jeff Arthurholtz. All rights reserved.
 
-No part of these materials may be copied, modified, distributed, rebranded,
-published, sublicensed, sold, or used outside authorized activities without
-prior written permission.
+This repository and all source code, documentation, workflows, designs,
+templates, reports, forms, and related materials are proprietary and
+confidential.
+
+No permission is granted to copy, modify, distribute, sublicense, publish,
+rebrand, reverse engineer, sell, or use this software or any related materials
+except through a separate written agreement signed by the copyright owner.
+
+Access to this repository does not transfer ownership and does not grant any
+license except as expressly stated in writing.
+
+Unauthorized use is prohibited.
