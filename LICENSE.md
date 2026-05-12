@@ -1,6 +1,6 @@
 Proprietary License — All Rights Reserved
 
-Copyright © 2026 Jeff Arthurholtz. All rights reserved.
+Copyright © 2026 JAREFEREE. All rights reserved.
 
 This repository and all source code, documentation, workflows, designs,
 templates, reports, forms, and related materials are proprietary and
